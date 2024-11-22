@@ -5,14 +5,14 @@
 
 - 📝 I regularly write articles on [https://raghavvelan.medium.com/](https://raghavvelan.medium.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and React**
+- 💬 Ask me about **HTML, CSS, JavaScript and React JS**
 
 - 📫 How to reach me **vraghav950@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/raghav-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raghav-v" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raghav-velan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghav-velan" height="30" width="40" /></a>
+<a href="https://codepen.io/raghav-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raghav-v" height="30" width="40" /></a> <br />
+<a href="https://linkedin.com/in/raghav-velan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghav-velan" height="30" width="40" /></a><br />
 <a href="https://medium.com/@raghavvelan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raghavvelan" height="30" width="40" /></a>
 </p>
 
