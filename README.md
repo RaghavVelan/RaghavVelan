@@ -34,6 +34,6 @@ I enjoy sharing what I learn through blogs and tutorials.
 - 💼 [LinkedIn](https://www.linkedin.com/in/raghav-velan)  
 - 💻 [CodePen](https://codepen.io/raghav-v)  
 - 📝 [Medium](https://raghavvelan.medium.com/)  
-- 🌐 [Portfolio](https://raghavvelan.netlify.app/)  
+- 🌐 [Portfolio](https://raghav-velan.netlify.app/)  
 
 ---
